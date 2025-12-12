@@ -1,5 +1,5 @@
-from ejercicio1.clases.vehiculos import Automovil, Motocicleta, Camion
-from ejercicio1.clases.flota import Flota
+from clases.vehiculos import Automovil, Motocicleta, Camion
+from clases.flota import Flota
 
 def main():
     # 1. Instanciamos el sistema gestor
